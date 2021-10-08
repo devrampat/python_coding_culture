@@ -2,8 +2,6 @@ Pylint is a quality checker for Python programming language that follows the sty
 
 This document provides guidelines to write clear code in Python with the main goal of improving readability and consistency of the code. Code is read much more often than is written that is why is so important to stick to conventions that will help us or other people to understand more easily the available code. 
 
-In this article, we explain 10 rules of PEP 8 that can make your Python code easier for others to read and how we can check them with Pylint. Let’s get started! 💪
-
 *Install Pylint*
 Pylint is a third party library that is not available by default in Python. Since Pylint is not part of the Python Standard Library, we need to install it separately. This can easily be achieved by using the pip package. 
 
